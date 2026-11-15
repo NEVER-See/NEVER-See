@@ -1,15 +1,18 @@
 <!-- GitHub profile README for https://github.com/never-see --><div align="center">
-  <h1>👋 Welcome to My GitHub Profile</h1>  <!-- Two separate animations reproduce the original blinking console block. -->
-  <p>
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Matrix&amp;size=30&amp;duration=550&amp;pause=100&amp;color=00FF00&amp;center=false&amp;vCenter=true&amp;width=60&amp;cursor=%E2%96%8A&amp;lines=%E2%96%8A;%20"
-      alt="Blinking green console cursor"
-    />
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Matrix&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=00FF00&amp;center=false&amp;vCenter=true&amp;width=500&amp;cursor=%E2%96%8A&amp;lines=Beginner+programmer;Learning+software+development;Creative+thinker"
-      alt="Beginner programmer — learning software development — creative thinker"
-    />
-  </p>
+  <h1>👋 Welcome to My GitHub Profile</h1>
+  <!-- Animated Console -->
+<p>
+  <!-- Blinking green rectangle -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Matrix&amp;size=30&amp;duration=550&amp;pause=100&amp;color=00FF00&amp;center=false&amp;vCenter=true&amp;width=60&amp;cursor=%E2%96%8A&amp;lines=%E2%96%8A;%20"
+    alt="Blinking cursor"
+  />  <!-- Centered animated text -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Matrix&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=00FF00&amp;center=true&amp;vCenter=true&amp;width=500&amp;cursor=%E2%96%8A&amp;lines=Beginner+programmer+ㅤ;Learning+software+development;Creative+thinker+ㅤ "
+    alt="Animated text"
+  />
+</p>
+
   <img
     src="https://github.com/user-attachments/assets/c9758cab-86a7-4d24-92d6-83dd3a6d11c4"
     alt="Animated profile banner"
