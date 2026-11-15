@@ -46,24 +46,31 @@ languages = {
 }</code></pre>
     </td>
   </tr>
-</table><!-- Cards use the maintained GitHub Stats Extended public service. -->
+</table>
+<!-- GitHub Statistics & Languages -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <a href="https://github.com/never-see">
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=never-see&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117"
+          alt="GitHub profile statistics"
+          width="100%"
+        />
+      </a>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <a href="https://github.com/never-see?tab=repositories">
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=never-see&amp;layout=compact&amp;langs_count=6&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117"
+          alt="Programming languages used in public repositories"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 <div align="center">
-  <a href="https://github.com/never-see">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=never-see&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117"
-      alt="GitHub profile statistics"
-      width="500"
-    />
-  </a>
-<div align="center">
-  <a href="https://github.com/never-see?tab=repositories">
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=never-see&amp;layout=compact&amp;langs_count=6&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117"
-      alt="Programming languages used in public repositories"
-      width="430"
-    />
-  </a>
-</div><div align="center">
   <h3>🛠️ Technologies &amp; Tools and Let's Connect 🤝</h3>
   <p>
     <a href="https://www.python.org/">
